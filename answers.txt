@@ -23,3 +23,14 @@ Cons of Non-Agile Development:
     Roles and Responsibilites of Product Owner
         The Product Owner sets the team in the right direction and handles releases of the product
         and manages stakeholders.
+
+(c) Three types of meetings in a sprint cycle
+    [1] Sprint Planning Meeting 
+        - Plan what will be completed in the upcoming sprint
+        - Move existing stories from the backlog into the current sprint
+    [2] Daily Scrum / Standup Meeting
+        - Discuss work completed per team member
+        - Plan work for the day and discuss potential blockers
+    [3] Sprint Retrospective Meeting
+        - Discuss work that has been completed
+        - Move work that is incomplete into the backlog
