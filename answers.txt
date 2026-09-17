@@ -34,3 +34,9 @@ Cons of Non-Agile Development:
     [3] Sprint Retrospective Meeting
         - Discuss work that has been completed
         - Move work that is incomplete into the backlog
+
+(d)
+    Epics: Contains a large amount of work that can be broken down into smaller stories
+    Story: Software system requirement that is explained using a few short sentences
+    Bug: Smallest unit of work to be done to fix a feature that is broken
+    Task: Administrative or internal requirement that is explained using a few short sentences
