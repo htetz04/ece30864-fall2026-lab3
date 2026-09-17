@@ -14,3 +14,12 @@ Pros of Non-Agile Development:
 Cons of Non-Agile Development:
     1) Does not give a usable product to the consumer until the end
     2) Testing is delayed and might not unveil issues until later
+
+(b) 
+    Roles and Responsibilites of Scrum Master
+        The Scrum Master is in charge of handling all the scrum related tasks such as using 
+        tools on JIRA (sprints, epics, etc.), overseeing sprints and hosting meetings
+
+    Roles and Responsibilites of Product Owner
+        The Product Owner sets the team in the right direction and handles releases of the product
+        and manages stakeholders.
