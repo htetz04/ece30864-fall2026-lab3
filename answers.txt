@@ -1,0 +1,16 @@
+(a) 
+Pros of Agile Development:
+    1) An iterative approach that can used to keep adding new things
+    2) Brings constant value to customer by have a working feature per iteration
+
+Cons of Agile Development:
+    1) Time and costs spent per iteration is difficult to predict
+    2) Overall stages and full completion of project never set
+
+Pros of Non-Agile Development:
+    1) The requirements are fixed from the start so no need to be off track
+    2) Completed within one iteration
+
+Cons of Non-Agile Development:
+    1) Does not give a usable product to the consumer until the end
+    2) Testing is delayed and might not unveil issues until later
